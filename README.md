@@ -1,2 +1,2 @@
 # mouse_wheel
-html + scss
+pug + scss
